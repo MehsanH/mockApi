@@ -1,13 +1,13 @@
 
 {
-  "division": [{"DivID" :1, "Div":"RANGPUR"},
-{"DivID" :1, "Div":	"RAJSHAHI"},
-{"DivID" :1, "Div":	"KHULNA"},
-{"DivID" :1, "Div":	"DHAKA"},
-{"DivID" :1, "Div":	"CHATTOGRAM"},
-{"DivID" :1, "Div":	"BARISAL"},
-{"DivID" :1, "Div":	"SYLHET"},
-{"DivID" :1, "Div":	"MYMENSINGH"}],
+  "division": [{"DivID":1, "Div":"RANGPUR"},
+{"DivID":1, "Div":"RAJSHAHI"},
+{"DivID":1, "Div":"KHULNA"},
+{"DivID":1, "Div":"DHAKA"},
+{"DivID":1, "Div":"CHATTOGRAM"},
+{"DivID":1, "Div":"BARISAL"},
+{"DivID":1, "Div":"SYLHET"},
+{"DivID":1, "Div":"MYMENSINGH"}],
   "district": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
