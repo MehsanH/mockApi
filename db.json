@@ -1,5 +1,13 @@
 {
-  "division":[
+  "division": [{"DivID":1, "Div":"RANGPUR"},
+  {"DivID":2, "Div":"RAJSHAHI"},
+  {"DivID":3, "Div":"KHULNA"},
+  {"DivID":4, "Div":"DHAKA"},
+  {"DivID":5, "Div":"CHATTOGRAM"},
+  {"DivID":6, "Div":"BARISAL"},
+  {"DivID":7, "Div":"SYLHET"},
+  {"DivID":8, "Div":"MYMENSINGH"}],
+  "district":[
     {
       "DistrictID": "101",
       "DivisionID": "1",
