@@ -1,350 +1,387 @@
+[{"DivID" :1, "Div":"RANGPUR"},
+{"DivID" :1, "Div":	"RAJSHAHI"},
+{"DivID" :1, "Div":	"KHULNA"},
+{"DivID" :1, "Div":	"DHAKA"},
+{"DivID" :1, "Div":	"CHATTOGRAM"},
+{"DivID" :1, "Div":	"BARISAL"},
+{"DivID" :1, "Div":	"SYLHET"},
+{"DivID" :1, "Div":	"MYMENSINGH"}]
+
+https://my-json-server.typicode.com/MehsanH/mockApi/division
+
 {
-  "division": [{"DivID":1, "Div":"RANGPUR"},
-  {"DivID":2, "Div":"RAJSHAHI"},
-  {"DivID":3, "Div":"KHULNA"},
-  {"DivID":4, "Div":"DHAKA"},
-  {"DivID":5, "Div":"CHATTOGRAM"},
-  {"DivID":6, "Div":"BARISAL"},
-  {"DivID":7, "Div":"SYLHET"},
-  {"DivID":8, "Div":"MYMENSINGH"}],
-  "district":[
+  "division": [
     {
-      "DistrictID": "101",
-      "DivisionID": "1",
+      "DivID": 1,
+      "Div": "RANGPUR"
+    },
+    {
+      "DivID": 2,
+      "Div": "RAJSHAHI"
+    },
+    {
+      "DivID": 3,
+      "Div": "KHULNA"
+    },
+    {
+      "DivID": 4,
+      "Div": "DHAKA"
+    },
+    {
+      "DivID": 5,
+      "Div": "CHATTOGRAM"
+    },
+    {
+      "DivID": 6,
+      "Div": "BARISAL"
+    },
+    {
+      "DivID": 7,
+      "Div": "SYLHET"
+    },
+    {
+      "DivID": 8,
+      "Div": "MYMENSINGH"
+    }
+  ],
+  "district": [
+    {
+      "DistID": "101",
+      "DivID": "1",
       "RegionID": "11",
       "DistrictName": "DINAJPUR"
     },
     {
-      "DistrictID": "102",
-      "DivisionID": "1",
+      "DistID": "102",
+      "DivID": "1",
       "RegionID": "11",
       "DistrictName": "THAKURGAON"
     },
     {
-      "DistrictID": "103",
-      "DivisionID": "1",
+      "DistID": "103",
+      "DivID": "1",
       "RegionID": "11",
       "DistrictName": "PANCHAGARH"
     },
     {
-      "DistrictID": "106",
-      "DivisionID": "1",
+      "DistID": "106",
+      "DivID": "1",
       "RegionID": "1",
       "DistrictName": "RANGPUR"
     },
     {
-      "DistrictID": "107",
-      "DivisionID": "1",
+      "DistID": "107",
+      "DivID": "1",
       "RegionID": "1",
       "DistrictName": "LALMONIRHAT"
     },
     {
-      "DistrictID": "108",
-      "DivisionID": "1",
+      "DistID": "108",
+      "DivID": "1",
       "RegionID": "11",
       "DistrictName": "NILPHAMARI"
     },
     {
-      "DistrictID": "109",
-      "DivisionID": "1",
+      "DistID": "109",
+      "DivID": "1",
       "RegionID": "1",
       "DistrictName": "KURIGRAM"
     },
     {
-      "DistrictID": "110",
-      "DivisionID": "1",
+      "DistID": "110",
+      "DivID": "1",
       "RegionID": "1",
       "DistrictName": "GAIBANDHA"
     },
     {
-      "DistrictID": "112",
-      "DivisionID": "2",
+      "DistID": "112",
+      "DivID": "2",
       "RegionID": "12",
       "DistrictName": "BOGURA"
     },
     {
-      "DistrictID": "113",
-      "DivisionID": "2",
+      "DistID": "113",
+      "DivID": "2",
       "RegionID": "12",
       "DistrictName": "JOYPURHAT"
     },
     {
-      "DistrictID": "116",
-      "DivisionID": "2",
+      "DistID": "116",
+      "DivID": "2",
       "RegionID": "2",
       "DistrictName": "RAJSHAHI"
     },
     {
-      "DistrictID": "117",
-      "DivisionID": "2",
+      "DistID": "117",
+      "DivID": "2",
       "RegionID": "2",
       "DistrictName": "NAOGAON"
     },
     {
-      "DistrictID": "118",
-      "DivisionID": "2",
+      "DistID": "118",
+      "DivID": "2",
       "RegionID": "2",
       "DistrictName": "NATORE"
     },
     {
-      "DistrictID": "119",
-      "DivisionID": "2",
+      "DistID": "119",
+      "DivID": "2",
       "RegionID": "2",
       "DistrictName": "C. NAWABGANJ"
     },
     {
-      "DistrictID": "121",
-      "DivisionID": "2",
+      "DistID": "121",
+      "DivID": "2",
       "RegionID": "19",
       "DistrictName": "PABNA"
     },
     {
-      "DistrictID": "122",
-      "DivisionID": "2",
+      "DistID": "122",
+      "DivID": "2",
       "RegionID": "19",
       "DistrictName": "SERAJGANJ"
     },
     {
-      "DistrictID": "225",
-      "DivisionID": "3",
+      "DistID": "225",
+      "DivID": "3",
       "RegionID": "17",
       "DistrictName": "KUSHTIA"
     },
     {
-      "DistrictID": "226",
-      "DivisionID": "3",
+      "DistID": "226",
+      "DivID": "3",
       "RegionID": "17",
       "DistrictName": "CHUADANGA"
     },
     {
-      "DistrictID": "227",
-      "DivisionID": "3",
+      "DistID": "227",
+      "DivID": "3",
       "RegionID": "17",
       "DistrictName": "MEHERPUR"
     },
     {
-      "DistrictID": "230",
-      "DivisionID": "3",
+      "DistID": "230",
+      "DivID": "3",
       "RegionID": "13",
       "DistrictName": "JASHORE"
     },
     {
-      "DistrictID": "231",
-      "DivisionID": "3",
+      "DistID": "231",
+      "DivID": "3",
       "RegionID": "13",
       "DistrictName": "JHENAIDAH"
     },
     {
-      "DistrictID": "232",
-      "DivisionID": "3",
+      "DistID": "232",
+      "DivID": "3",
       "RegionID": "13",
       "DistrictName": "MAGURA"
     },
     {
-      "DistrictID": "233",
-      "DivisionID": "3",
+      "DistID": "233",
+      "DivID": "3",
       "RegionID": "3",
       "DistrictName": "NARAIL"
     },
     {
-      "DistrictID": "235",
-      "DivisionID": "3",
+      "DistID": "235",
+      "DivID": "3",
       "RegionID": "3",
       "DistrictName": "KHULNA"
     },
     {
-      "DistrictID": "236",
-      "DivisionID": "3",
+      "DistID": "236",
+      "DivID": "3",
       "RegionID": "3",
       "DistrictName": "SATKHIRA"
     },
     {
-      "DistrictID": "237",
-      "DivisionID": "3",
+      "DistID": "237",
+      "DivID": "3",
       "RegionID": "3",
       "DistrictName": "BAGERHAT"
     },
     {
-      "DistrictID": "350",
-      "DivisionID": "8",
+      "DistID": "350",
+      "DivID": "8",
       "RegionID": "5",
       "DistrictName": "JAMALPUR"
     }
   ],
-  "upazila":[
+  "upazila": [
     {
-      "ThanaID":"10101",
-      "DivisionID":"1",
-      "DistrictID":"101",
-      "ThanaName":"BIRGANJ"
+      "ThanaID": "10101",
+      "DivID": "1",
+      "DistID": "101",
+      "ThanaName": "BIRGANJ"
     },
     {
-      "ThanaID":"10102",
-      "DivisionID":"1",
-      "DistrictID":"101",
-      "ThanaName":"BIROL"
+      "ThanaID": "10102",
+      "DivID": "1",
+      "DistID": "101",
+      "ThanaName": "BIROL"
     },
     {
-      "ThanaID":"10103",
-      "DistrictID":"1",
-      "DivisionID":"101",
-      "ThanaName":"BOCHAGANJ"
+      "ThanaID": "10103",
+      "DivID": "1",
+      "DistID": "101",
+      "ThanaName": "BOCHAGANJ"
     },
     {
-      "ThanaID":"10104",
-      "DistrictID":"1",
-      "DivisionID":"101",
-      "ThanaName":"CHIRIRBANDAR"
+      "ThanaID": "10104",
+      "DivID": "1",
+      "DistID": "101",
+      "ThanaName": "CHIRIRBANDAR"
     },
     {
-      "ThanaID":"10105",
-      "DistrictID":"1",
-      "DivisionID":"101",
-      "ThanaName":"FULBARI"
+      "ThanaID": "10105",
+      "DivID": "1",
+      "DistID": "101",
+      "ThanaName": "FULBARI"
     },
     {
-      "ThanaID":"10106",
-      "DistrictID":"1",
-      "DivisionID":"101",
-      "ThanaName":"GHORAGHAT"
+      "ThanaID": "10106",
+      "DivID": "1",
+      "DistID": "101",
+      "ThanaName": "GHORAGHAT"
     },
     {
-      "ThanaID":"10107",
-      "DistrictID":"1",
-      "DivisionID":"101",
-      "ThanaName":"HAKIMPUR"
+      "ThanaID": "10107",
+      "DivID": "1",
+      "DistID": "101",
+      "ThanaName": "HAKIMPUR"
     },
     {
-      "ThanaID":"10108",
-      "DistrictID":"1",
-      "DivisionID":"101",
-      "ThanaName":"KAHAROL"
+      "ThanaID": "10108",
+      "DivID": "1",
+      "DistID": "101",
+      "ThanaName": "KAHAROL"
     },
     {
-      "ThanaID":"10109",
-      "DistrictID":"1",
-      "DivisionID":"101",
-      "ThanaName":"KHANSHAMA"
+      "ThanaID": "10109",
+      "DivID": "1",
+      "DistID": "101",
+      "ThanaName": "KHANSHAMA"
     },
     {
-      "ThanaID":"10110",
-      "DistrictID":"1",
-      "DivisionID":"101",
-      "ThanaName":"DINAJPUR-S"
+      "ThanaID": "10110",
+      "DivID": "1",
+      "DistID": "101",
+      "ThanaName": "DINAJPUR-S"
     },
     {
-      "ThanaID":"10111",
-      "DistrictID":"1",
-      "DivisionID":"101",
-      "ThanaName":"NAWABGANJ"
+      "ThanaID": "10111",
+      "DivID": "1",
+      "DistID": "101",
+      "ThanaName": "NAWABGANJ"
     },
     {
-      "ThanaID":"10112",
-      "DistrictID":"1",
-      "DivisionID":"101",
-      "ThanaName":"PARBATIPUR"
+      "ThanaID": "10112",
+      "DivID": "1",
+      "DistID": "101",
+      "ThanaName": "PARBATIPUR"
     },
     {
-      "ThanaID":"10113",
-      "DistrictID":"1",
-      "DivisionID":"101",
-      "ThanaName":"BIRAMPUR"
+      "ThanaID": "10113",
+      "DivID": "1",
+      "DistID": "101",
+      "ThanaName": "BIRAMPUR"
     },
     {
-      "ThanaID":"10201",
-      "DistrictID":"1",
-      "DivisionID":"102",
-      "ThanaName":"BALIADANGI"
+      "ThanaID": "10201",
+      "DivID": "1",
+      "DistID": "102",
+      "ThanaName": "BALIADANGI"
     },
     {
-      "ThanaID":"10202",
-      "DistrictID":"1",
-      "DivisionID":"102",
-      "ThanaName":"HARIPUR"
+      "ThanaID": "10202",
+      "DivID": "1",
+      "DistID": "102",
+      "ThanaName": "HARIPUR"
     },
     {
-      "ThanaID":"10203",
-      "DistrictID":"1",
-      "DivisionID":"102",
-      "ThanaName":"PIRGANJ"
+      "ThanaID": "10203",
+      "DivID": "1",
+      "DistID": "102",
+      "ThanaName": "PIRGANJ"
     },
     {
-      "ThanaID":"10204",
-      "DistrictID":"1",
-      "DivisionID":"102",
-      "ThanaName":"RANISANKAIL"
+      "ThanaID": "10204",
+      "DivID": "1",
+      "DistID": "102",
+      "ThanaName": "RANISANKAIL"
     },
     {
-      "ThanaID":"10205",
-      "DistrictID":"1",
-      "DivisionID":"102",
-      "ThanaName":"THAKURGAON-S"
+      "ThanaID": "10205",
+      "DivID": "1",
+      "DistID": "102",
+      "ThanaName": "THAKURGAON-S"
     },
     {
-      "ThanaID":"10301",
-      "DistrictID":"1",
-      "DivisionID":"103",
-      "ThanaName":"ATWARI"
+      "ThanaID": "10301",
+      "DivID": "1",
+      "DistID": "103",
+      "ThanaName": "ATWARI"
     },
     {
-      "ThanaID":"10302",
-      "DistrictID":"1",
-      "DivisionID":"103",
-      "ThanaName":"BODA"
+      "ThanaID": "10302",
+      "DivID": "1",
+      "DistID": "103",
+      "ThanaName": "BODA"
     },
     {
-      "ThanaID":"10303",
-      "DistrictID":"1",
-      "DivisionID":"103",
-      "ThanaName":"DEBIGANJ"
+      "ThanaID": "10303",
+      "DivID": "1",
+      "DistID": "103",
+      "ThanaName": "DEBIGANJ"
     },
     {
-      "ThanaID":"10304",
-      "DistrictID":"1",
-      "DivisionID":"103",
-      "ThanaName":"PANCHAGARH-S"
+      "ThanaID": "10304",
+      "DivID": "1",
+      "DistID": "103",
+      "ThanaName": "PANCHAGARH-S"
     },
     {
-      "ThanaID":"10305",
-      "DistrictID":"1",
-      "DivisionID":"103",
-      "ThanaName":"TETULIA"
+      "ThanaID": "10305",
+      "DivID": "1",
+      "DistID": "103",
+      "ThanaName": "TETULIA"
     },
     {
-      "ThanaID":"11708",
-      "DistrictID":"2",
-      "DivisionID":"117",
-      "ThanaName":"PATNITALA"
+      "ThanaID": "11708",
+      "DivID": "2",
+      "DistID": "117",
+      "ThanaName": "PATNITALA"
     },
     {
-      "ThanaID":"11709",
-      "DistrictID":"2",
-      "DivisionID":"117",
-      "ThanaName":"PORSHA"
+      "ThanaID": "11709",
+      "DivID_": "2",
+      "DistID": "117",
+      "ThanaName": "PORSHA"
     },
     {
-      "ThanaID":"11710",
-      "DistrictID":"2",
-      "DivisionID":"117",
-      "ThanaName":"RANINAGAR"
+      "ThanaID": "11710",
+      "DivID": "2",
+      "DistID": "117",
+      "ThanaName": "RANINAGAR"
     },
     {
-      "ThanaID":"11711",
-      "DistrictID":"2",
-      "DivisionID":"117",
-      "ThanaName":"SHAPAHAR"
+      "ThanaID": "11711",
+      "DivID": "2",
+      "DistID": "117",
+      "ThanaName": "SHAPAHAR"
     },
     {
-      "ThanaID":"11801",
-      "DistrictID":"2",
-      "DivisionID":"118",
-      "ThanaName":"BAGATIPARA"
+      "ThanaID": "11801",
+      "DivID": "2",
+      "DistID": "118",
+      "ThanaName": "BAGATIPARA"
     },
     {
-      "ThanaID":"11802",
-      "DistrictID":"2",
-      "DivisionID":"118",
-      "ThanaName":"BARAIGRAM"
+      "ThanaID": "11802",
+      "DivID": "2",
+      "DistID": "118",
+      "ThanaName": "BARAIGRAM"
     }
   ]
 }
