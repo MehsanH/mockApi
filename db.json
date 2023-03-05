@@ -169,72 +169,6 @@
       "DivisionID": "8",
       "RegionID": "5",
       "DistrictName": "JAMALPUR"
-    },
-    {
-      "DistrictID": "351",
-      "DivisionID": "8",
-      "RegionID": "5",
-      "DistrictName": "SHERPUR"
-    },
-    {
-      "DistrictID": "354",
-      "DivisionID": "8",
-      "RegionID": "5",
-      "DistrictName": "MYMENSINGH"
-    },
-    {
-      "DistrictID": "355",
-      "DivisionID": "8",
-      "RegionID": "5",
-      "DistrictName": "NETROKONA"
-    },
-    {
-      "DistrictID": "356",
-      "DivisionID": "4",
-      "RegionID": "15",
-      "DistrictName": "KISHOREGANJ"
-    },
-    {
-      "DistrictID": "359",
-      "DivisionID": "4",
-      "RegionID": "6",
-      "DistrictName": "TANGAIL"
-    },
-    {
-      "DistrictID": "361",
-      "DivisionID": "4",
-      "RegionID": "6",
-      "DistrictName": "DHAKA"
-    },
-    {
-      "DistrictID": "362",
-      "DivisionID": "4",
-      "RegionID": "6",
-      "DistrictName": "GAZIPUR"
-    },
-    {
-      "DistrictID": "363",
-      "DivisionID": "4",
-      "RegionID": "15",
-      "DistrictName": "NARSHINGDI"
-    },
-    {
-      "DistrictID": "364",
-      "DivisionID": "4",
-      "RegionID": "15",
-      "DistrictName": "NARAYANGANJ"
-    },
-    {
-      "DistrictID": "365",
-      "DivisionID": "4",
-      "RegionID": "15",
-      "DistrictName": "MUNSHIGANJ"
-    },
-    {
-      "DistrictID": "366",
-      "DivisionID": "4",
-      "RegionID": "6",
-      "DistrictName": "MANIKGANJ"
     }
   ],
   "upazila":[
@@ -411,30 +345,6 @@
       "DistrictID":"2",
       "DivisionID":"118",
       "ThanaName":"BARAIGRAM"
-    },
-    {
-      "ThanaID":"11803",
-      "DistrictID":"2",
-      "DivisionID":"118",
-      "ThanaName":"GURUDASPUR"
-    },
-    {
-      "ThanaID":"11804",
-      "DistrictID":"2",
-      "DivisionID":"118",
-      "ThanaName":"LALPUR"
-    },
-    {
-      "ThanaID":"11805",
-      "DistrictID":"2",
-      "DivisionID":"118",
-      "ThanaName":"NATORE-S"
-    },
-    {
-      "ThanaID":"67811",
-      "DistrictID":"7",
-      "DivisionID":"678",
-      "ThanaName":"DAKHIN SUNAMGANJ"
     }
   ]
 }
