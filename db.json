@@ -1,70 +1,388 @@
 {
   "division":[
     {
-      "DivID":1,
-      "Div":"RANGPUR"
+      "DistrictID": "101",
+      "DivisionID": "1",
+      "RegionID": "11",
+      "DistrictName": "DINAJPUR"
     },
     {
-      "DivID":2,
-      "Div":"RAJSHAHI"
+      "DistrictID": "102",
+      "DivisionID": "1",
+      "RegionID": "11",
+      "DistrictName": "THAKURGAON"
     },
     {
-      "DivID":3,
-      "Div":"KHULNA"
+      "DistrictID": "103",
+      "DivisionID": "1",
+      "RegionID": "11",
+      "DistrictName": "PANCHAGARH"
     },
     {
-      "DivID":4,
-      "Div":"DHAKA"
+      "DistrictID": "106",
+      "DivisionID": "1",
+      "RegionID": "1",
+      "DistrictName": "RANGPUR"
     },
     {
-      "DivID":5,
-      "Div":"CHATTOGRAM"
+      "DistrictID": "107",
+      "DivisionID": "1",
+      "RegionID": "1",
+      "DistrictName": "LALMONIRHAT"
     },
     {
-      "DivID":6,
-      "Div":"BARISAL"
+      "DistrictID": "108",
+      "DivisionID": "1",
+      "RegionID": "11",
+      "DistrictName": "NILPHAMARI"
     },
     {
-      "DivID":7,
-      "Div":"SYLHET"
+      "DistrictID": "109",
+      "DivisionID": "1",
+      "RegionID": "1",
+      "DistrictName": "KURIGRAM"
     },
     {
-      "DivID":8,
-      "Div":"MYMENSINGH"
-    }
-  ],
-  "district":[
-    {
-      "DistID":101,
-      "DivID":1,
-      "RegionID":11,
-      "Dist":"DINAJPUR",
-      "DistSL":1,
-      "ShortName":"DNJ"
+      "DistrictID": "110",
+      "DivisionID": "1",
+      "RegionID": "1",
+      "DistrictName": "GAIBANDHA"
     },
     {
-      "DistID":103,
-      "DivID":1,
-      "RegionID":11,
-      "Dist":"PANCHAGARH",
-      "DistSL":2,
-      "ShortName":"TKG"
+      "DistrictID": "112",
+      "DivisionID": "2",
+      "RegionID": "12",
+      "DistrictName": "BOGURA"
     },
     {
-      "DistID":112,
-      "DivID":2,
-      "RegionID":12,
-      "Dist":"BOGURA",
-      "DistSL":9,
-      "ShortName":"BGR"
+      "DistrictID": "113",
+      "DivisionID": "2",
+      "RegionID": "12",
+      "DistrictName": "JOYPURHAT"
     },
     {
-      "DistID":225,
-      "DivID":3,
-      "RegionID":17,
-      "Dist":"KUSHTIA",
-      "DistSL":17,
-      "ShortName":"KST"
+      "DistrictID": "116",
+      "DivisionID": "2",
+      "RegionID": "2",
+      "DistrictName": "RAJSHAHI"
+    },
+    {
+      "DistrictID": "117",
+      "DivisionID": "2",
+      "RegionID": "2",
+      "DistrictName": "NAOGAON"
+    },
+    {
+      "DistrictID": "118",
+      "DivisionID": "2",
+      "RegionID": "2",
+      "DistrictName": "NATORE"
+    },
+    {
+      "DistrictID": "119",
+      "DivisionID": "2",
+      "RegionID": "2",
+      "DistrictName": "C. NAWABGANJ"
+    },
+    {
+      "DistrictID": "121",
+      "DivisionID": "2",
+      "RegionID": "19",
+      "DistrictName": "PABNA"
+    },
+    {
+      "DistrictID": "122",
+      "DivisionID": "2",
+      "RegionID": "19",
+      "DistrictName": "SERAJGANJ"
+    },
+    {
+      "DistrictID": "225",
+      "DivisionID": "3",
+      "RegionID": "17",
+      "DistrictName": "KUSHTIA"
+    },
+    {
+      "DistrictID": "226",
+      "DivisionID": "3",
+      "RegionID": "17",
+      "DistrictName": "CHUADANGA"
+    },
+    {
+      "DistrictID": "227",
+      "DivisionID": "3",
+      "RegionID": "17",
+      "DistrictName": "MEHERPUR"
+    },
+    {
+      "DistrictID": "230",
+      "DivisionID": "3",
+      "RegionID": "13",
+      "DistrictName": "JASHORE"
+    },
+    {
+      "DistrictID": "231",
+      "DivisionID": "3",
+      "RegionID": "13",
+      "DistrictName": "JHENAIDAH"
+    },
+    {
+      "DistrictID": "232",
+      "DivisionID": "3",
+      "RegionID": "13",
+      "DistrictName": "MAGURA"
+    },
+    {
+      "DistrictID": "233",
+      "DivisionID": "3",
+      "RegionID": "3",
+      "DistrictName": "NARAIL"
+    },
+    {
+      "DistrictID": "235",
+      "DivisionID": "3",
+      "RegionID": "3",
+      "DistrictName": "KHULNA"
+    },
+    {
+      "DistrictID": "236",
+      "DivisionID": "3",
+      "RegionID": "3",
+      "DistrictName": "SATKHIRA"
+    },
+    {
+      "DistrictID": "237",
+      "DivisionID": "3",
+      "RegionID": "3",
+      "DistrictName": "BAGERHAT"
+    },
+    {
+      "DistrictID": "350",
+      "DivisionID": "8",
+      "RegionID": "5",
+      "DistrictName": "JAMALPUR"
+    },
+    {
+      "DistrictID": "351",
+      "DivisionID": "8",
+      "RegionID": "5",
+      "DistrictName": "SHERPUR"
+    },
+    {
+      "DistrictID": "354",
+      "DivisionID": "8",
+      "RegionID": "5",
+      "DistrictName": "MYMENSINGH"
+    },
+    {
+      "DistrictID": "355",
+      "DivisionID": "8",
+      "RegionID": "5",
+      "DistrictName": "NETROKONA"
+    },
+    {
+      "DistrictID": "356",
+      "DivisionID": "4",
+      "RegionID": "15",
+      "DistrictName": "KISHOREGANJ"
+    },
+    {
+      "DistrictID": "359",
+      "DivisionID": "4",
+      "RegionID": "6",
+      "DistrictName": "TANGAIL"
+    },
+    {
+      "DistrictID": "361",
+      "DivisionID": "4",
+      "RegionID": "6",
+      "DistrictName": "DHAKA"
+    },
+    {
+      "DistrictID": "362",
+      "DivisionID": "4",
+      "RegionID": "6",
+      "DistrictName": "GAZIPUR"
+    },
+    {
+      "DistrictID": "363",
+      "DivisionID": "4",
+      "RegionID": "15",
+      "DistrictName": "NARSHINGDI"
+    },
+    {
+      "DistrictID": "364",
+      "DivisionID": "4",
+      "RegionID": "15",
+      "DistrictName": "NARAYANGANJ"
+    },
+    {
+      "DistrictID": "365",
+      "DivisionID": "4",
+      "RegionID": "15",
+      "DistrictName": "MUNSHIGANJ"
+    },
+    {
+      "DistrictID": "366",
+      "DivisionID": "4",
+      "RegionID": "6",
+      "DistrictName": "MANIKGANJ"
+    },
+    {
+      "DistrictID": "368",
+      "DivisionID": "4",
+      "RegionID": "4",
+      "DistrictName": "FARIDPUR"
+    },
+    {
+      "DistrictID": "369",
+      "DivisionID": "4",
+      "RegionID": "4",
+      "DistrictName": "RAJBARI"
+    },
+    {
+      "DistrictID": "370",
+      "DivisionID": "4",
+      "RegionID": "16",
+      "DistrictName": "MADARIPUR"
+    },
+    {
+      "DistrictID": "371",
+      "DivisionID": "4",
+      "RegionID": "4",
+      "DistrictName": "GOPALGANJ"
+    },
+    {
+      "DistrictID": "372",
+      "DivisionID": "4",
+      "RegionID": "16",
+      "DistrictName": "SHARIATPUR"
+    },
+    {
+      "DistrictID": "480",
+      "DivisionID": "5",
+      "RegionID": "7",
+      "DistrictName": "CUMILLA"
+    },
+    {
+      "DistrictID": "481",
+      "DivisionID": "5",
+      "RegionID": "7",
+      "DistrictName": "B.BARIA"
+    },
+    {
+      "DistrictID": "482",
+      "DivisionID": "5",
+      "RegionID": "7",
+      "DistrictName": "CHANDPUR"
+    },
+    {
+      "DistrictID": "484",
+      "DivisionID": "5",
+      "RegionID": "18",
+      "DistrictName": "NOAKHALI"
+    },
+    {
+      "DistrictID": "485",
+      "DivisionID": "5",
+      "RegionID": "18",
+      "DistrictName": "LAXMIPUR"
+    },
+    {
+      "DistrictID": "486",
+      "DivisionID": "5",
+      "RegionID": "18",
+      "DistrictName": "FENI"
+    },
+    {
+      "DistrictID": "488",
+      "DivisionID": "5",
+      "RegionID": "8",
+      "DistrictName": "CHATTOGRAM"
+    },
+    {
+      "DistrictID": "490",
+      "DivisionID": "5",
+      "RegionID": "8",
+      "DistrictName": "COX'S BAZAR"
+    },
+    {
+      "DistrictID": "492",
+      "DivisionID": "5",
+      "RegionID": "20",
+      "DistrictName": "RANGAMATI"
+    },
+    {
+      "DistrictID": "495",
+      "DivisionID": "5",
+      "RegionID": "20",
+      "DistrictName": "KHAGRACHARI"
+    },
+    {
+      "DistrictID": "497",
+      "DivisionID": "5",
+      "RegionID": "20",
+      "DistrictName": "BANDARBAN"
+    },
+    {
+      "DistrictID": "540",
+      "DivisionID": "6",
+      "RegionID": "9",
+      "DistrictName": "BARISHAL"
+    },
+    {
+      "DistrictID": "541",
+      "DivisionID": "6",
+      "RegionID": "9",
+      "DistrictName": "JHALOKATHI"
+    },
+    {
+      "DistrictID": "542",
+      "DivisionID": "6",
+      "RegionID": "9",
+      "DistrictName": "PEROJPUR"
+    },
+    {
+      "DistrictID": "543",
+      "DivisionID": "6",
+      "RegionID": "9",
+      "DistrictName": "BHOLA"
+    },
+    {
+      "DistrictID": "546",
+      "DivisionID": "6",
+      "RegionID": "14",
+      "DistrictName": "PATUAKHALI"
+    },
+    {
+      "DistrictID": "547",
+      "DivisionID": "6",
+      "RegionID": "14",
+      "DistrictName": "BARGUNA"
+    },
+    {
+      "DistrictID": "675",
+      "DivisionID": "7",
+      "RegionID": "10",
+      "DistrictName": "SYLHET"
+    },
+    {
+      "DistrictID": "676",
+      "DivisionID": "7",
+      "RegionID": "10",
+      "DistrictName": "MOULVIBAZAR"
+    },
+    {
+      "DistrictID": "677",
+      "DivisionID": "7",
+      "RegionID": "10",
+      "DistrictName": "HABIGANJ"
+    },
+    {
+      "DistrictID": "678",
+      "DivisionID": "7",
+      "RegionID": "10",
+      "DistrictName": "SUNAMGANJ"
     }
   ],
   "upazila":{
