@@ -191,10 +191,10 @@
       "DistrictName": "BAGERHAT"
     },
     {
-      "DistID": "350",
-      "DivID": "8",
-      "RegionID": "5",
-      "DistrictName": "JAMALPUR"
+      "DistID": "366",
+      "DivID": "4",
+      "RegionID": "6",
+      "DistrictName": "MANIKGANJ"
     }
   ],
   "upazila": [
@@ -216,12 +216,7 @@
       "DistID": "101",
       "ThanaName": "BOCHAGANJ"
     },
-    {
-      "ThanaID": "10104",
-      "DivID": "1",
-      "DistID": "101",
-      "ThanaName": "CHIRIRBANDAR"
-    },
+    { "ThanaID" : "36601", "DivID" : "4", "DistID" : "366", "ThanaName" : "DAULATPUR" },
     {
       "ThanaID": "10105",
       "DivID": "1",
