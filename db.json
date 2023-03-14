@@ -186,10 +186,10 @@
       "Dist": "SATKHIRA"
     },
     {
-      "DistrictID": "361",
-      "DivisionID": "4",
+      "DistID": "361",
+      "DivID": "4",
       "RegionID": "6",
-      "DistrictName": "DHAKA"
+      "Dist": "DHAKA"
     },
     {
       "DistID": "366",
