@@ -199,37 +199,12 @@
     }
   ],
   "upazila": [
-    {
-      "ThanaID": "10101",
-      "DivID": "1",
-      "DistID": "101",
-      "Thana": "BIRGANJ"
-    },
-    {
-      "ThanaID": "10102",
-      "DivID": "1",
-      "DistID": "101",
-      "Thana": "BIROL"
-    },
-    {
-      "ThanaID": "10103",
-      "DivID": "1",
-      "DistID": "101",
-      "Thana": "BOCHAGANJ"
-    },
-    { "ThanaID" : "36601", "DivID" : "4", "DistID" : "366", "Thana" : "DAULATPUR" },
-    {
-      "ThanaID": "10105",
-      "DivID": "1",
-      "DistID": "101",
-      "Thana": "FULBARI"
-    },
-    {
-      "ThanaID": "10106",
-      "DivID": "1",
-      "DistID": "101",
-      "Thana": "GHORAGHAT"
-    },
+    { "ThanaID" : "36101", "DivID" : "4", "DistID" : "361", "Thana" : "DHAMRAI" },
+{ "ThanaID" : "36102", "DivID" : "4", "DistID" : "361", "Thana" : "DOHAR" },
+{ "ThanaID" : "36103", "DivID" : "4", "DistID" : "361", "Thana" : "KERANIGANJ" },
+{ "ThanaID" : "36104", "DivID" : "4", "DistID" : "361", "Thana" : "NAWABGANJ" },
+{ "ThanaID" : "36105", "DivID" : "4", "DistID" : "361", "Thana" : "SAVAR" },
+{ "ThanaID" : "36106", "DivID" : "4", "DistID" : "361", "Thana" : "TEJGAON CIRCLE" },
     {
       "ThanaID": "10107",
       "DivID": "1",
